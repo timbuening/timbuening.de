@@ -8,6 +8,7 @@ show_pagination: true
 hide_from_post_list: false
 feed:
     limit: 10
+header_image: '0'
 ---
 
 # Schwangerschaftsabruch aka Abtreibung
