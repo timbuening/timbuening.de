@@ -53,6 +53,14 @@
         </div>
     {% endif %}
 {% endif %}
+{%
+    set postData = socialPosts({
+        order_by: 'provider',
+        order_dir: 'ASC',
+        limit: 50,
+        providers:['twitter']
+    })
+%}
 
 {% if config.plugins.feed.enabled %}
     <div class="sidebar-content syndicate">
