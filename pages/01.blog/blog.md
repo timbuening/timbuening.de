@@ -1,7 +1,7 @@
 ---
 hide_git_sync_repo_link: false
 sitemap:
-    changefreq: monthly
+    changefreq: weekly
 body_classes: 'header-dark header-transparent'
 hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 blog_url: /blog
