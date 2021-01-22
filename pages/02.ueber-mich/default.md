@@ -1,5 +1,9 @@
 ---
 title: 'Über mich'
+hide_git_sync_repo_link: false
+process:
+    markdown: true
+    twig: true
 ---
 
 ## Tim, 26 Jahre, Herten (Ruhrgebiet)
