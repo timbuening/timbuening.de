@@ -20,6 +20,7 @@ content:
     order:
         by: date
         dir: desc
+        excl: self
     pagination: true
     url_taxonomy_filters: true
 bricklayer_layout: true
