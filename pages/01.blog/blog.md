@@ -28,7 +28,7 @@ display_post_summary:
     enabled: false
 feed:
     limit: 10
-    description: 'Sample Blog Description'
+    description: 'Mein Blog'
 pagination: true
 child_type: item
 ---
