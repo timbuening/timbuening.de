@@ -33,5 +33,5 @@ pagination: true
 child_type: item
 ---
 
-# My **Open Publishing** Space
-## Create, Share and Collaborate
+# Ich bin **Tim** Büning
+## Ma(lo)cher, Humanist, Weltenbummler
