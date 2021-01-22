@@ -1,7 +1,7 @@
 ---
 alert_color: blue
 title: 'Important Notice'
-published: false
+published: true
 visible: true
 ---
 
