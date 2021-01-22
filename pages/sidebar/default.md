@@ -3,10 +3,9 @@ title: Sidebar
 routable: false
 visible: false
 position: top
+hide_git_sync_repo_link: false
 ---
 
-#### Markdown Area
+Ich hoffe, es geht dir gut!
 
-Some text here.
-
-[twitter url="https://twitter.com/hibbittsdesign" text="Tweets by @hibbittsdesign" height="600"]
+[twitter url="https://twitter.com/TimBuening" text="Tweets by @timbuening" height="600"]
