@@ -5,4 +5,4 @@ published: false
 visible: false
 ---
 
-Sample Important Notice
+Achtung: Ich brauche deine Hilfe! [Erfahre mehr](https://diehumanisten.de/unterstuetzerunterschrift)
