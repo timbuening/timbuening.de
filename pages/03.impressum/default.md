@@ -5,9 +5,9 @@ title:
 # Impressum
 
 ## Diensteanbieter
-Tim Büning
-Antoniusstr. 11
-45699 Herten
+Tim Büning 
+Antoniusstr. 11 
+45699 Herten 
 
 ## Kontaktmöglichkeiten
 
