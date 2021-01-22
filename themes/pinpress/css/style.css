@@ -15,7 +15,7 @@ font-size: 15px;
 color: #6d7683;}
 a{color:#333}
 a:hover{color:#E74C3C}
-h1,h2,h3,h4,h5{font-family:"Lato",serif}
+h1,h2,h3,h4,h5{font-family:"Lato",sans-serif}
 .bl_background{position:fixed;z-index:-1;width:100%;height:100%;left:0;top:0}
 .bl_background img{width:100%;height:100%}
 #background_pattern{background-repeat:repeat;height:100%;left:0;position:fixed;top:0;width:100%;z-index:-1}
