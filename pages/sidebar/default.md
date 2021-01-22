@@ -4,6 +4,9 @@ routable: false
 visible: false
 position: top
 hide_git_sync_repo_link: false
+process:
+    markdown: true
+    twig: true
 ---
 
 Ich hoffe, es geht dir gut!
