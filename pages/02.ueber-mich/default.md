@@ -4,6 +4,7 @@ hide_git_sync_repo_link: false
 process:
     markdown: true
     twig: true
+show_sidebar: true
 ---
 
 ## Tim, 26 Jahre, Herten (Ruhrgebiet)
