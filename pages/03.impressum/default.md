@@ -1,54 +1,48 @@
 ---
-title: null
+title: Impressum
 ---
-
-# Impressum
 
 ## Diensteanbieter
 Tim Büning  
 Antoniusstr. 11  
 45699 Herten  
 
-## Kontaktmöglichkeiten
+### Kontaktmöglichkeiten
 
-**E-Mail-Adresse:** ichhabzumeckern [at] timbuening [punkt] de
-
+**E-Mail-Adresse:** ichhabzumeckern [at] timbuening [punkt] de  
 **Telefon:** 017664386422
 
-## Journalistisch-redaktionelle Angebote
+### Journalistisch-redaktionelle Angebote
 
 **Inhaltlich verantwortlich:** Tim Büning (Adresse wie oben)
 
-## Social Media und andere Onlinepräsenzen
+### Social Media und andere Onlinepräsenzen
 
-**Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:**
-
-facebook.com/buening.tim
-
-twitter.com/bueningtim
-
-instagram.com/timbuening
-
+**Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:**  
+facebook.com/buening.tim  
+twitter.com/bueningtim  
+instagram.com/timbuening  
+  
 [Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke](https://datenschutz-generator.de/?l=de)
 
 
 
-# Datenschutzerklärung
+## Datenschutzerklärung
 
-## Einleitung
+### Einleitung
 
 Mit der folgenden Datenschutzerklärung möchten wir Sie darüber  aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch  kurz als “Daten“ bezeichnet) wir zu welchen Zwecken und in welchem  Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns  durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen  der Erbringung unserer Leistungen als auch insbesondere auf unseren  Webseiten, in mobilen Applikationen sowie innerhalb externer  Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend  zusammenfassend bezeichnet als “Onlineangebot“).
 
 Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
-Stand: 11. Dezember 2020
+Stand: 22. Januar 2021
 
-## Inhaltsübersicht
+### Inhaltsübersicht
 
 - [Einleitung](https://timbuening.de/imprint-datenschutz/#m14)
 - [Verantwortlicher](https://timbuening.de/imprint-datenschutz/#m3)
 - [Übersicht der Verarbeitungen](https://timbuening.de/imprint-datenschutz/#mOverview)
-- [Maßgebliche Rechtsgrundlagen](https://timbuening.de/imprint-datenschutz/#m13)
+- [Maßgebliche Rechtsgrundlagen](https://timbuening.de/de/impressum#Maßgebliche Rechtsgrundlagen)
 - [Sicherheitsmaßnahmen](https://timbuening.de/imprint-datenschutz/#m27)
 - [Datenverarbeitung in Drittländern](https://timbuening.de/imprint-datenschutz/#m24)
 - [Einsatz von Cookies](https://timbuening.de/imprint-datenschutz/#m134)
