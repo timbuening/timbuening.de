@@ -1,5 +1,5 @@
 ---
-title: Search
+title: Suche
 published: true
 hide_git_sync_repo_link: true
 template: search
