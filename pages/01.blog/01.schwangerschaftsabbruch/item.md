@@ -1,7 +1,6 @@
 ---
 media_order: 'header.png,schwangerschaftsabbrueche_1.jpg,schwangerschaftsabbrueche_4.jpg,schwangerschaftsabbrueche_6.jpg,schwangerschaftsabbrueche_8.jpg,schwangerschaftsabbrueche_9.jpg,schwangerschaftsabbrueche_deutschland.jpg,schwangerschaftsabbrueche_Z7.jpg'
 hide_git_sync_repo_link: false
-hero_image: header.png
 blog_url: /blog
 show_sidebar: true
 show_breadcrumbs: true
