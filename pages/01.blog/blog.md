@@ -2,4 +2,3 @@
 content:
     items: '@self.children'
 ---
-
