@@ -1,8 +1,8 @@
 ---
 alert_color: red
 title: Achtung
-published: true
-visible: true
+published: false
+visible: false
 ---
 
 Achtung: Ich brauche deine Hilfe! [Erfahre mehr](https://diehumanisten.de/unterstuetzerunterschrift)
