@@ -2,7 +2,7 @@
 alert_color: blue
 title: 'Important Notice'
 published: false
-visible: false
+visible: true
 ---
 
-Sample Important Notice
+Achtung: Ich brauche deine Hilfe! [Erfahre mehr](https://diehumanisten.de/unterstuetzerunterschrift)
