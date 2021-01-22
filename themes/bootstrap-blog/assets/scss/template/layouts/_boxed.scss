@@ -1,0 +1,92 @@
+.item-boxed {
+    margin-bottom: $spacer;
+
+    img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        @extend .img-fluid;
+    }
+
+    .card-title {
+        margin-bottom: 2px;
+
+        .title {
+            margin-bottom: 0;
+
+            a {
+                color: $dark;
+            }
+
+            .readingtime {
+                display: inline-block;
+                font-size: 14px;
+                font-weight: 400;
+                padding-left: $spacer * .5;
+            }
+        }
+    }
+
+    .categories {
+        margin-bottom: 0;
+
+        @each $color, $value in $theme-colors {
+            .badge.badge-#{$color} {
+
+                background-color: scale-color(theme-color($color), $alpha: -15%);
+
+                &:hover {
+                    $boxed-badge-bg-hover-level: if(is-theme-color-light($value), 1, 2);
+                    background-color: theme-color-level($color, $boxed-badge-bg-hover-level);
+                }
+            }
+        }
+    }
+
+    .summary {
+        margin-bottom: 0;
+    }
+
+    .btn-toolbar .btn-group {
+        @each $color, $value in $theme-colors {
+            .btn.btn-outline-#{$color} {
+                $boxed-button-border-color-level: if(is-theme-color-light($value), 3, 1);
+                border-color: theme-color-level($color, $boxed-button-border-color-level);
+
+                @if is-theme-color-light($value) {
+                    color: theme-color('dark');
+                }
+            }
+        }
+    }
+
+    .card-footer {
+        @each $color, $value in $theme-colors {
+            $boxed-footer-icon-color-level: if(is-theme-color-light($value), 2, 1);
+
+            .tags {
+                font-size: 90%;
+
+                i.fa-tags.text-#{$color} {
+                    $boxed-tags-icon-alpha-level: if(is-theme-color-light($value), 0%, -30%);
+                    color: scale-color(theme-color-level($color, $boxed-footer-icon-color-level), $alpha: $boxed-tags-icon-alpha-level) !important;
+                }
+
+                a.text-#{$color} {
+                    @if is-theme-color-light($value) {
+                        color: theme-color('dark');
+                    }
+                }
+            }
+
+            i.fa-clock.text-#{$color} {
+                color: theme-color-level($color, $boxed-footer-icon-color-level);
+            }
+        }
+
+        small {
+            cursor: default;
+        }
+    }
+
+}

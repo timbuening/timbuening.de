@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="{{ html_lang }}">
+<head>
+{% block head %}
+    <meta charset="utf-8"/>
+    <title>{% if header.title %}{{ header.title|e('html') }} | {% endif %}{{ site.title|e('html') }}</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% include 'partials/metadata.html.twig' %}
+    {% set favicon = config.theme.favicon ? config.theme.favicon|first : { type:'image/png', path: url('theme://images/logo.png') } %}
+    <link rel="icon" type="{{ favicon.type }}" href="{{ url( favicon.path ) }}"/>
+    <link rel="canonical" href="{{ page.url(true, true) }}"/>
+
+    {% block stylesheets %}{% endblock %}
+
+    {% block javascripts %}{% endblock %}
+
+    {% block assets deferred %}
+        {{ assets.css()|raw }}
+        {{ assets.js()|raw }}
+    {% endblock %}
+{% endblock head %}
+</head>
+<body id="top" class="{{ page.header.body_classes }}{% if config.theme.navbar.sticky %} sticky{% endif %}">
+{% block header %}
+    {% set navbarStyle = config.theme.navbar.style %}
+    {% if config.theme.navbar.override_page_style and page.header.style %}
+        {% set navbarStyle = page.header.style %}
+    {% endif %}
+
+    <nav class="navbar navbar-expand-md {{ 'bg-' ~ navbarStyle}}{% if config.theme.navbar.sticky %} fixed-top{% endif %}" role="navigation"
+        {% if config.theme.navbar.background_color %}style="background-color:{{ config.theme.navbar.background_color }}"{% endif %}>
+        <a class="navbar-brand" href="{{ base_url == '' ? '/' : base_url }}">
+            {% if config.theme.navbar.image %}
+                {% set navbar_image = config.theme.navbar.image|first %}
+                <img class="d-inline-block align-center" src="{{ url(navbar_image.path) }}" alt=""/>
+            {% endif %}
+            {% if config.theme.navbar.icon %}
+                <i class="{{ config.theme.navbar.icon_group|defined('fas') }} fa-{{ config.theme.navbar.icon }}"></i>
+            {% endif %}
+            {% if config.theme.navbar.display_site_name %}
+                {{ config.site.title }}
+            {% endif %}
+        </a>
+        {% if config.plugins.langswitcher.enabled %}
+            {% include 'partials/langswitcher.html.twig' %}
+        {% endif %}
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mainNavbar" aria-controls="mainNavbar" aria-expanded="false"
+                aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="mainNavbar">
+            {% block header_navigation %}
+                {% include 'partials/navigation.html.twig' %}
+            {% endblock %}
+        </div>
+    </nav>
+{% endblock %}
+
+<div class="wrapper">
+    {% block content %}{% endblock %}
+</div>
+
+{% block footer %}
+    <footer class="footer{% if config.theme.footer.style %} bg-{{ config.theme.footer.style }}{% endif %}">
+        <div class="container{% if config.theme.fluid_container %}-fluid{% endif %}">
+            <div class="d-flex flex-row justify-content-center">
+                {% if config.theme.footer.legal %}
+                    <div class="footer-legal mr-auto">{{ config.theme.footer.legal|raw }}</div>
+                {% endif %}
+                <div class="footer-text">{{ config.theme.footer.text|raw }}</div>
+            </div>
+        </div>
+    </footer>
+{% endblock %}
+
+{% if config.theme.back_to_top_button %}
+    <a id="back-to-top" href="#" class="btn btn-{{ page.header.style|defined('primary') }} btn-lg back-to-top" role="button" title="{{ 'THEME_BOOTSTRAP_BLOG.RETURN_TOP_PAGE'|t }}" data-toggle="tooltip"
+       data-placement="left"><span class="fas fa-chevron-up"></span></a>
+{% endif %}
+
+{% block bottom %}
+    {{ assets.js('bottom')|raw }}
+{% endblock %}
+</body>
+</html>
