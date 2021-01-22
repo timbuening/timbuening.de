@@ -6,6 +6,7 @@ process:
     twig: false
 sidebar:
     enabled: true
+twig_first: true
 ---
 
 Gem. §219a StGb ist es verboten über die Methodiken des  Schwangerschaftsabbruch, auch “Abtreibung” genannt, zu informieren  sofern man diese Leistung als Arzt auch anbietet. 
