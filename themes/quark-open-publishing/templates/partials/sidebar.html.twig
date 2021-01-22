@@ -67,3 +67,8 @@
         </a>
     </div>
 {% endif %}
+
+{% endif %}
+{% if config.theme.sidebar.twitter.enabled %}
+    <div class="sidebar-content">
+        {% do assets.addJs('https://platform.twitter.com/widgets.js', { loading:'async', group: 'bottom'}) %}
