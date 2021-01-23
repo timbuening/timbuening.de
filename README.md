@@ -1,6 +1,6 @@
 # Website
 Tach zusammen. :wave:  
-Ich nutze dieses Git um relativ öffentlich darüber zu informieren, was auf meiner Website passiert.
+Ich nutze dieses Git um relativ öffentlich darüber zu informieren, was auf meiner [Website](https://timbuening.de) passiert.
 Den gesamten Quellcode kann man bald auch einsehen, bis auf sensible Bereiche natürlich. 
 
 Ich nutze Grav, ein CMS welches ohne Datenbank auskommt und ziemlich anpassbar ist.
