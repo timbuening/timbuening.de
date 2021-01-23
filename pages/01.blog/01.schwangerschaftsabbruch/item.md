@@ -15,6 +15,11 @@ taxonomiy:
         - Politik
         - Meinung
         - Aufklärung
+taxonomy:
+    tag:
+        - Politik
+        - Meinung
+        - Aufklärung
 ---
 
 Gem. §219a StGb ist es verboten über die Methodiken des  Schwangerschaftsabbruch, auch “Abtreibung” genannt, zu informieren  sofern man diese Leistung als Arzt auch anbietet. 
