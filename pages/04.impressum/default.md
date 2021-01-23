@@ -16,7 +16,7 @@ Telefon: 017664386422
 
 ### Journalistisch-redaktionelle Angebote
 
-**Inhaltlich verantwortlich:** Tim Büning (wie oben)
+**Inhaltlich verantwortlich:** Tim Büning (Anschrift und Kontakt wie oben)
 
 ### Social Media und andere Onlinepräsenzen
 **Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:**
@@ -26,52 +26,54 @@ instagram.com/timbuening
 
 ### Haftungs- und Schutzrechtshinweise
 
-Haftungsausschluss: Die Inhalte dieses Onlineangebotes wurden sorgfältig und nach unserem aktuellen Kenntnisstand erstellt, dienen jedoch nur der Information und entfalten keine rechtlich bindende Wirkung, sofern es sich nicht um gesetzlich verpflichtende Informationen (z.B. das Impressum, die Datenschutzerklärung, AGB oder verpflichtende Belehrungen von Verbrauchern) handelt. Wir behalten uns vor, die Inhalte vollständig oder teilweise zu ändern oder zu löschen, soweit vertragliche Verpflichtungen unberührt bleiben. Alle Angebote sind freibleibend und unverbindlich.
+**Haftungsausschluss**: Die Inhalte dieses Onlineangebotes wurden sorgfältig und nach unserem aktuellen Kenntnisstand erstellt, dienen jedoch nur der Information und entfalten keine rechtlich bindende Wirkung, sofern es sich nicht um gesetzlich verpflichtende Informationen (z.B. das Impressum, die Datenschutzerklärung, AGB oder verpflichtende Belehrungen von Verbrauchern) handelt. Wir behalten uns vor, die Inhalte vollständig oder teilweise zu ändern oder zu löschen, soweit vertragliche Verpflichtungen unberührt bleiben. Alle Angebote sind freibleibend und unverbindlich.
 
-Links auf fremde Webseiten: Inhalte fremder Webseiten, auf die wir direkt oder indirekt verweisen, liegen außerhalb unseres Verantwortungsbereiches und machen wir uns nicht zu Eigen. Für alle Inhalte und insbesondere für Schäden, die aus der Nutzung der in den verlinkten Webseiten aufrufbaren Informationen entstehen, haftet allein der Anbieter der verlinkten Webseiten.
+**Links auf fremde Webseiten**: Inhalte fremder Webseiten, auf die wir direkt oder indirekt verweisen, liegen außerhalb unseres Verantwortungsbereiches und machen wir uns nicht zu Eigen. Für alle Inhalte und insbesondere für Schäden, die aus der Nutzung der in den verlinkten Webseiten aufrufbaren Informationen entstehen, haftet allein der Anbieter der verlinkten Webseiten.
 
-Urheberrechte und Markenrechte: Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte (Urheberrechte, Markenrechte) geschützt. Die Verwendung, Vervielfältigung usw. unterliegen unseren Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteverwalter.
+**Urheberrechte und Markenrechte**: Alle auf dieser Website dargestellten Inhalte, wie Texte, Fotografien, Grafiken, Marken und Warenzeichen sind durch die jeweiligen Schutzrechte (Urheberrechte, Markenrechte) geschützt. Die Verwendung, Vervielfältigung usw. unterliegen unseren Rechten oder den Rechten der jeweiligen Urheber bzw. Rechteverwalter.
 
-Hinweise auf Rechtsverstöße: Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.
+**Hinweise auf Rechtsverstöße: Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.**
 
 Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke
 
-## Datenschutzerklärung
-### Einleitung
+## Datenschutzerklärung  
+### Einleitung  
 
 Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als "Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als "Onlineangebot“).
 
-Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
+Die verwendeten Begriffe sind **nicht geschlechtsspezifisch**.
 
-Stand: 22. Januar 2021
-Inhaltsübersicht
+Stand: 22. Januar 2021  
 
-Einleitung
-   Verantwortlicher
-   Übersicht der Verarbeitungen
-   Maßgebliche Rechtsgrundlagen
-   Sicherheitsmaßnahmen
-   Übermittlung und Offenbarung von personenbezogenen Daten
-   Datenverarbeitung in Drittländern
-   Einsatz von Cookies
-   Bereitstellung des Onlineangebotes und Webhosting
-   Blogs und Publikationsmedien
-   Webanalyse, Monitoring und Optimierung
-   Präsenzen in sozialen Netzwerken (Social Media)
-   Plugins und eingebettete Funktionen sowie Inhalte
-   Löschung von Daten
-   Änderung und Aktualisierung der Datenschutzerklärung
-   Rechte der betroffenen Personen
+**Inhaltsübersicht**
 
-Verantwortlicher
+* Einleitung
+* Verantwortlicher
+* Übersicht der Verarbeitungen
+* Maßgebliche Rechtsgrundlagen
+* Sicherheitsmaßnahmen
+* Übermittlung und Offenbarung von personenbezogenen Daten
+* Datenverarbeitung in Drittländern
+* Einsatz von Cookies
+* Bereitstellung des Onlineangebotes und Webhosting
+* Blogs und Publikationsmedien
+* Webanalyse, Monitoring und Optimierung
+* Präsenzen in sozialen Netzwerken (Social Media)
+* Plugins und eingebettete Funktionen sowie Inhalte
+* Löschung von Daten
+* Änderung und Aktualisierung der Datenschutzerklärung
+* Rechte der betroffenen Personen
 
-Wie im Impressum
+### Verantwortlicher
 
-E-Mail-Adresse: ichwillmeckern@timbuening.de
-Übersicht der Verarbeitungen
+Wie im **Impressum**  
 
-Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.
-Arten der verarbeiteten Daten
+E-Mail-Adresse: ichwillmeckern@timbuening.de  
+Übersicht der Verarbeitungen  
+
+Die nachfolgende Übersicht fasst die Arten der verarbeiteten Daten und die Zwecke ihrer Verarbeitung zusammen und verweist auf die betroffenen Personen.  
+
+### Arten der verarbeiteten Daten
 
 Bestandsdaten (z.B. Namen, Adressen).
 Inhaltsdaten (z.B. Eingaben in Onlineformularen).
@@ -79,11 +81,11 @@ Kontaktdaten (z.B. E-Mail, Telefonnummern).
 Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
 Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten).
 
-Kategorien betroffener Personen
+### Kategorien betroffener Personen
 
  Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 
-Zwecke der Verarbeitung
+### Zwecke der Verarbeitung
 
 Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit.
 Konversionsmessung (Messung der Effektivität von Marketingmaßnahmen).
@@ -97,7 +99,7 @@ Remarketing.
  Erbringung vertragliche Leistungen und Kundenservice.
  Verwaltung und Beantwortung von Anfragen.
 
-Maßgebliche Rechtsgrundlagen
+### Maßgebliche Rechtsgrundlagen
 
 Im Folgenden teilen wir die Rechtsgrundlagen der Datenschutzgrundverordnung (DSGVO), auf deren Basis wir die personenbezogenen Daten verarbeiten, mit. Bitte beachten Sie, dass zusätzlich zu den Regelungen der DSGVO die nationalen Datenschutzvorgaben in Ihrem bzw. unserem Wohn- und Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
 
@@ -116,12 +118,14 @@ Kürzung der IP-Adresse: Sofern IP-Adressen von uns oder von den eingesetzten Di
 Übermittlung und Offenbarung von personenbezogenen Daten
 
 Im Rahmen unserer Verarbeitung von personenbezogenen Daten kommt es vor, dass die Daten an andere Stellen, Unternehmen, rechtlich selbstständige Organisationseinheiten oder Personen übermittelt oder sie ihnen gegenüber offengelegt werden. Zu den Empfängern dieser Daten können z.B. Zahlungsinstitute im Rahmen von Zahlungsvorgängen, mit IT-Aufgaben beauftragte Dienstleister oder Anbieter von Diensten und Inhalten, die in eine Webseite eingebunden werden, gehören. In solchen Fall beachten wir die gesetzlichen Vorgaben und schließen insbesondere entsprechende Verträge bzw. Vereinbarungen, die dem Schutz Ihrer Daten dienen, mit den Empfängern Ihrer Daten ab.
-Datenverarbeitung in Drittländern
+
+### Datenverarbeitung in Drittländern
 
 Sofern wir Daten in einem Drittland (d.h., außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder die Verarbeitung im Rahmen der Inanspruchnahme von Diensten Dritter oder der Offenlegung bzw. Übermittlung von Daten an andere Personen, Stellen oder Unternehmen stattfindet, erfolgt dies nur im Einklang mit den gesetzlichen Vorgaben.
 
 Vorbehaltlich ausdrücklicher Einwilligung oder vertraglich oder gesetzlich erforderlicher Übermittlung verarbeiten oder lassen wir die Daten nur in Drittländern mit einem anerkannten Datenschutzniveau, vertraglichen Verpflichtung durch sogenannte Standardschutzklauseln der EU-Kommission, beim Vorliegen von Zertifizierungen oder verbindlicher internen Datenschutzvorschriften verarbeiten (Art. 44 bis 49 DSGVO, Informationsseite der EU-Kommission: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection_de ).
-Einsatz von Cookies
+
+### Einsatz von Cookies
 
 Cookies sind Textdateien, die Daten von besuchten Websites oder Domains enthalten und von einem Browser auf dem Computer des Benutzers gespeichert werden. Ein Cookie dient in erster Linie dazu, die Informationen über einen Benutzer während oder nach seinem Besuch innerhalb eines Onlineangebotes zu speichern. Zu den gespeicherten Angaben können z.B. die Spracheinstellungen auf einer Webseite, der Loginstatus, ein Warenkorb oder die Stelle, an der ein Video geschaut wurde, gehören. Zu dem Begriff der Cookies zählen wir ferner andere Technologien, die die gleichen Funktionen wie Cookies erfüllen (z.B., wenn Angaben der Nutzer anhand pseudonymer Onlinekennzeichnungen gespeichert werden, auch als "Nutzer-IDs" bezeichnet)
 
@@ -136,21 +140,21 @@ Notwendige (auch: essentielle oder unbedingt erforderliche) Cookies: Cookies kö
 
 Hinweise zu Rechtsgrundlagen: Auf welcher Rechtsgrundlage wir Ihre personenbezogenen Daten mit Hilfe von Cookies verarbeiten, hängt davon ab, ob wir Sie um eine Einwilligung bitten. Falls dies zutrifft und Sie in die Nutzung von Cookies einwilligen, ist die Rechtsgrundlage der Verarbeitung Ihrer Daten die erklärte Einwilligung. Andernfalls werden die mithilfe von Cookies verarbeiteten Daten auf Grundlage unserer berechtigten Interessen (z.B. an einem betriebswirtschaftlichen Betrieb unseres Onlineangebotes und dessen Verbesserung) verarbeitet oder, wenn der Einsatz von Cookies erforderlich ist, um unsere vertraglichen Verpflichtungen zu erfüllen.
 
-Speicherdauer: Sofern wir Ihnen keine expliziten Angaben zur Speicherdauer von permanenten Cookies mitteilen (z. B. im Rahmen eines sog. Cookie-Opt-Ins), gehen Sie bitte davon aus, dass die Speicherdauer bis zu zwei Jahre betragen kann.
+**Speicherdauer**: Sofern wir Ihnen keine expliziten Angaben zur Speicherdauer von permanenten Cookies mitteilen (z. B. im Rahmen eines sog. Cookie-Opt-Ins), gehen Sie bitte davon aus, dass die Speicherdauer bis zu zwei Jahre betragen kann.
 
 Allgemeine Hinweise zum Widerruf und Widerspruch (Opt-Out): Abhängig davon, ob die Verarbeitung auf Grundlage einer Einwilligung oder gesetzlichen Erlaubnis erfolgt, haben Sie jederzeit die Möglichkeit, eine erteilte Einwilligung zu widerrufen oder der Verarbeitung Ihrer Daten durch Cookie-Technologien zu widersprechen (zusammenfassend als "Opt-Out" bezeichnet). Sie können Ihren Widerspruch zunächst mittels der Einstellungen Ihres Browsers erklären, z.B., indem Sie die Nutzung von Cookies deaktivieren (wobei hierdurch auch die Funktionsfähigkeit unseres Onlineangebotes eingeschränkt werden kann). Ein Widerspruch gegen den Einsatz von Cookies zu Zwecken des Onlinemarketings kann auch mittels einer Vielzahl von Diensten, vor allem im Fall des Trackings, über die Webseiten https://optout.aboutads.info und https://www.youronlinechoices.com/ erklärt werden. Daneben können Sie weitere Widerspruchshinweise im Rahmen der Angaben zu den eingesetzten Dienstleistern und Cookies erhalten.
 
 Verarbeitung von Cookie-Daten auf Grundlage einer Einwilligung: Wir setzen ein Verfahren zum Cookie-Einwilligungs-Management ein, in dessen Rahmen die Einwilligungen der Nutzer in den Einsatz von Cookies, bzw. der im Rahmen des Cookie-Einwilligungs-Management-Verfahrens genannten Verarbeitungen und Anbieter eingeholt sowie von den Nutzern verwaltet und widerrufen werden können. Hierbei wird die Einwilligungserklärung gespeichert, um deren Abfrage nicht erneut wiederholen zum müssen und die Einwilligung entsprechend der gesetzlichen Verpflichtung nachweisen zu können. Die Speicherung kann serverseitig und/oder in einem Cookie (sogenanntes Opt-In-Cookie, bzw. mithilfe vergleichbarer Technologien) erfolgen, um die Einwilligung einem Nutzer, bzw. dessen Gerät zuordnen zu können. Vorbehaltlich individueller Angaben zu den Anbietern von Cookie-Management-Diensten, gelten die folgenden Hinweise: Die Dauer der Speicherung der Einwilligung kann bis zu zwei Jahren betragen. Hierbei wird ein pseudonymer Nutzer-Identifikator gebildet und mit dem Zeitpunkt der Einwilligung, Angaben zur Reichweite der Einwilligung (z. B. welche Kategorien von Cookies und/oder Diensteanbieter) sowie dem Browser, System und verwendeten Endgerät gespeichert.
 
-Cookie-Einstellungen/ -Widerspruchsmöglichkeit:
+### Cookie-Einstellungen/ -Widerspruchsmöglichkeit:
 
-Es werden nur funktionale Cookies gesetzt.
+**Es werden nur funktionale Cookies gesetzt.**
 
 Verarbeitete Datenarten: Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
 Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-Bereitstellung des Onlineangebotes und Webhosting
+### Bereitstellung des Onlineangebotes und Webhosting
 
 Um unser Onlineangebot sicher und effizient bereitstellen zu können, nehmen wir die Leistungen von einem oder mehreren Webhosting-Anbietern in Anspruch, von deren Servern (bzw. von ihnen verwalteten Servern) das Onlineangebot abgerufen werden kann. Zu diesen Zwecken können wir Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste sowie Sicherheitsleistungen und technische Wartungsleistungen in Anspruch nehmen.
 
@@ -160,13 +164,13 @@ Erhebung von Zugriffsdaten und Logfiles: Wir selbst (bzw. unser Webhostinganbiet
 
 Die Serverlogfiles können zum einen zu Zwecken der Sicherheit eingesetzt werden, z.B., um eine Überlastung der Server zu vermeiden (insbesondere im Fall von missbräuchlichen Angriffen, sogenannten DDoS-Attacken) und zum anderen, um die Auslastung der Server und ihre Stabilität sicherzustellen.
 
-Es wird ein CMS von getgrav.org genutzt. Getgrav.org erhält dabei Nutzungstatistiken, welche anonymisiert werden.
+**Es wird ein CMS von getgrav.org genutzt. Getgrav.org erhält dabei Nutzungstatistiken, welche anonymisiert werden.**
 
 Verarbeitete Datenarten: Inhaltsdaten (z.B. Eingaben in Onlineformularen), Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten), Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
 Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-Blogs und Publikationsmedien
+### Blogs und Publikationsmedien
 
 Wir nutzen Blogs oder vergleichbare Mittel der Onlinekommunikation und Publikation (nachfolgend "Publikationsmedium"). Die Daten der Leser werden für die Zwecke des Publikationsmediums nur insoweit verarbeitet, als es für dessen Darstellung und die Kommunikation zwischen Autoren und Lesern oder aus Gründen der Sicherheit erforderlich ist. Im Übrigen verweisen wir auf die Informationen zur Verarbeitung der Besucher unseres Publikationsmediums im Rahmen dieser Datenschutzhinweise.
 
@@ -175,7 +179,7 @@ Verarbeitete Datenarten: Bestandsdaten (z.B. Namen, Adressen), Kontaktdaten (z.B
  Zwecke der Verarbeitung: Erbringung vertragliche Leistungen und Kundenservice, Feedback (z.B. Sammeln von Feedback via Online-Formular).
  Rechtsgrundlagen: Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-Webanalyse, Monitoring und Optimierung
+### Webanalyse, Monitoring und Optimierung
 
 Die Webanalyse (auch als "Reichweitenmessung" bezeichnet) dient der Auswertung der Besucherströme unseres Onlineangebotes und kann Verhalten, Interessen oder demographische Informationen zu den Besuchern, wie z.B. das Alter oder das Geschlecht, als pseudonyme Werte umfassen. Mit Hilfe der Reichweitenanalyse können wir z.B. erkennen, zu welcher Zeit unser Onlineangebot oder dessen Funktionen oder Inhalte am häufigsten genutzt werden oder zur Wiederverwendung einladen. Ebenso können wir nachvollziehen, welche Bereiche der Optimierung bedürfen.
 
@@ -187,18 +191,18 @@ Es werden ebenfalls die IP-Adressen der Nutzer gespeichert. Jedoch nutzen wir ei
 
 Hinweise zu Rechtsgrundlagen: Sofern wir die Nutzer um deren Einwilligung in den Einsatz der Drittanbieter bitten, ist die Rechtsgrundlage der Verarbeitung von Daten die Einwilligung. Ansonsten werden die Daten der Nutzer auf Grundlage unserer berechtigten Interessen (d.h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet. In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
 
-Einstellungen/ Widerspruchsmöglichkeit:
+### Einstellungen/ Widerspruchsmöglichkeit:
 
 Es werden sehr einfache Statistiken erhoben. Dabei werden keine Daten mit Dritten geteilt. Es ist auch nicht nachvollziehbar, wie oft eine einzelne Person die Seite besucht.
 
-Im Prinzip wird nur erhoben, wie oft die Seite durch einen Browser angefragt wird, jedoch nicht von wem.
+**Im Prinzip wird nur erhoben, wie oft die Seite durch einen Browser angefragt wird, jedoch nicht von wem.**
 
 Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 Zwecke der Verarbeitung: Reichweitenmessung (z.B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher), Tracking (z.B. interessens-/verhaltensbezogenes Profiling, Nutzung von Cookies), Konversionsmessung (Messung der Effektivität von Marketingmaßnahmen), Profiling (Erstellen von Nutzerprofilen).
 Sicherheitsmaßnahmen: IP-Masking (Pseudonymisierung der IP-Adresse).
 Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-Präsenzen in sozialen Netzwerken (Social Media)
+### Präsenzen in sozialen Netzwerken (Social Media)
 
 Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und verarbeiten in diesem Rahmen Daten der Nutzer, um mit den dort aktiven Nutzern zu kommunizieren oder um Informationen über uns anzubieten.
 
@@ -217,13 +221,13 @@ Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 Zwecke der Verarbeitung: Kontaktanfragen und Kommunikation, Tracking (z.B. interessens-/verhaltensbezogenes Profiling, Nutzung von Cookies), Remarketing, Reichweitenmessung (z.B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher).
 Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO).
 
-Eingesetzte Dienste und Diensteanbieter:
+### Eingesetzte Dienste und Diensteanbieter:
 
 Instagram: Soziales Netzwerk; Dienstanbieter: Instagram Inc., 1601 Willow Road, Menlo Park, CA, 94025, USA, Mutterunternehmen: Facebook, 1 Hacker Way, Menlo Park, CA 94025, USA; Website: https://www.instagram.com; Datenschutzerklärung: https://instagram.com/about/legal/privacy.
 Facebook: Soziales Netzwerk; Dienstanbieter: Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland, Mutterunternehmen: Facebook, 1 Hacker Way, Menlo Park, CA 94025, USA; Website: https://www.facebook.com; Datenschutzerklärung: https://www.facebook.com/about/privacy; Widerspruchsmöglichkeit (Opt-Out): Einstellungen für Werbeanzeigen: https://www.facebook.com/settings?tab=ads.
 Twitter: Soziales Netzwerk; Dienstanbieter: Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irland, Mutterunternehmen: Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA; Datenschutzerklärung: https://twitter.com/de/privacy, (Einstellungen) https://twitter.com/personalization.
 
-Plugins und eingebettete Funktionen sowie Inhalte
+### Plugins und eingebettete Funktionen sowie Inhalte
 
 Wir binden in unser Onlineangebot Funktions- und Inhaltselemente ein, die von den Servern ihrer jeweiligen Anbieter (nachfolgend bezeichnet als "Drittanbieter”) bezogen werden. Dabei kann es sich zum Beispiel um Grafiken, Videos oder Social-Media-Schaltflächen sowie Beiträge handeln (nachfolgend einheitlich bezeichnet als "Inhalte”).
 
@@ -236,12 +240,12 @@ Betroffene Personen: Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).
 Zwecke der Verarbeitung: Bereitstellung unseres Onlineangebotes und Nutzerfreundlichkeit, Erbringung vertragliche Leistungen und Kundenservice, Sicherheitsmaßnahmen, Verwaltung und Beantwortung von Anfragen.
 Rechtsgrundlagen: Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO), Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO).
 
-Eingesetzte Dienste und Diensteanbieter:
+### Eingesetzte Dienste und Diensteanbieter:
 
 Google Fonts: Wir binden die Schriftarten ("Google Fonts") des Anbieters Google ein, wobei die Daten der Nutzer allein zu Zwecken der Darstellung der Schriftarten im Browser der Nutzer verwendet werden. Die Einbindung erfolgt auf Grundlage unserer berechtigten Interessen an einer technisch sicheren, wartungsfreien und effizienten Nutzung von Schriftarten, deren einheitlicher Darstellung sowie unter Berücksichtigung möglicher lizenzrechtlicher Restriktionen für deren Einbindung. Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: https://fonts.google.com/; Datenschutzerklärung: https://policies.google.com/privacy.
 YouTube-Videos: Videoinhalte; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: https://www.youtube.com; Datenschutzerklärung: https://policies.google.com/privacy; Widerspruchsmöglichkeit (Opt-Out): Opt-Out-Plugin: https://tools.google.com/dlpage/gaoptout?hl=de, Einstellungen für die Darstellung von Werbeeinblendungen: https://adssettings.google.com/authenticated.
 
-Löschung von Daten
+### Löschung von Daten
 
 Die von uns verarbeiteten Daten werden nach Maßgabe der gesetzlichen Vorgaben gelöscht, sobald deren zur Verarbeitung erlaubten Einwilligungen widerrufen werden oder sonstige Erlaubnisse entfallen (z.B., wenn der Zweck der Verarbeitung dieser Daten entfallen ist oder sie für den Zweck nicht erforderlich sind).
 
