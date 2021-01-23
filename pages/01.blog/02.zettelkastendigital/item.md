@@ -12,14 +12,13 @@ published: true
 title: 'Meine Liebe zu Markdown und der Zettelkastenmethode'
 header_image: '1'
 taxonomy:
-    tags:
+    tag:
+        - Technik
         - Markdown
-        - Internet
-        - Syncthing
-        - Zettelkasten
-        - Tutorial
+        - Notizen
     category:
         - Technik
+
 ---
 
 In diesem Beitrag möchte ich über meine Liebe zu Markdown sowie der Zettelkastenmethode sprechen. Außerdem zeige ich einen Interessanten Weg, wie ich diese Methode digital nutze. Opensource und recht simpel, ohne dass man "ein übelster Nerd sein muss", aber der Reihe nach. 
