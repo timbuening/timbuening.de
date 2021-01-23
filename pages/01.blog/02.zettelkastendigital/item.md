@@ -8,6 +8,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 visible: false
+published: true
 title: 'Meine Liebe zu Markdown und der Zettelkastenmethode'
 header_image: '1'
 ---
