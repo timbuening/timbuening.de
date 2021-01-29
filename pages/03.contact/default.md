@@ -5,6 +5,8 @@ process:
     markdown: true
     twig: true
 show_sidebar: true
+published: false
+visible: false 
 ---
 
 # Wie du mich kontaktieren kannst? 
