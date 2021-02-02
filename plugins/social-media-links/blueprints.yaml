@@ -218,3 +218,32 @@ form:
               default: 6
               validate:
               type: Number
+        keybase:
+          type: tab
+          title: Keybase
+          fields:
+            social_pages.pages.keybase.icon:
+              type: text
+              size: small
+              label: Font Awesome Icon
+              default: keybase
+              validate:
+              type: text
+            social_pages.pages.keybase.url:
+              type: url
+              label: Your Keybase Profile URL
+              validate:
+              type: url
+            social_pages.pages.keybase.title:
+              type: text
+              label: Title when icon hovered (optional)
+              default: Keybase
+              validate:
+              type: text
+            social_pages.pages.Keybase.position:
+              type: text
+              size: x-small
+              label: Position
+              default: 7
+              validate:
+              type: Number
