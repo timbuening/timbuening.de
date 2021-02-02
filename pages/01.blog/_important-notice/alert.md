@@ -1,5 +1,5 @@
 ---
-alert_color: yellow
+alert_color: red
 title: Achtung
 published: true
 visible: true
