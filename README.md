@@ -1,7 +1,6 @@
 # Website
 Tach zusammen. :wave:  
 Ich nutze dieses Git um relativ öffentlich darüber zu informieren, was auf meiner [Website](https://timbuening.de) passiert.
-Den gesamten Quellcode kann man bald auch einsehen, bis auf sensible Bereiche natürlich. 
 
 Ich nutze [Grav](https://getgrav.org), ein CMS welches ohne Datenbank auskommt und ziemlich anpassbar ist.
 Die Inhalte werden zu einem überwiegenden Teil mit *Markdown* erstellt. In einer Ordnerstruktur wird das ganze dann logisch und zusammenhängend. 
