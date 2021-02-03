@@ -5,8 +5,8 @@ process:
     markdown: true
     twig: true
 show_sidebar: true
-published: false
-visible: false 
+published: true
+visible: true 
 ---
 
 # Wie du mich kontaktieren kannst? 
@@ -14,4 +14,6 @@ visible: false
 
 Threema: V8VUVKNX
 Telegram: [@timbuening](https://t.me/timbuening)
-Weitere Möglichkeiten folgen :=)
+E-Mail: mail@timbuening.de (pls use my [public key](https://keybase.io/timbuening))
+Twitter: [@TimBuening](https://twitter.com/TimBuening)
+Github: [@TimBuening](https://github.com/timbuening)
