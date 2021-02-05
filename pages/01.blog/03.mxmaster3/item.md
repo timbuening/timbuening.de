@@ -51,3 +51,5 @@ Hin und wieder bricht die Bluetooth Verbindung ab. So circa alle 4 Tage ist das 
 
 ### "Umschalten"  
 Das Umschalten von Rechner 1 auf Rechner zwei dauert unter einer Sekunde.  
+
+Nachfolgend noch ein paar Bilder von der Maus: 
