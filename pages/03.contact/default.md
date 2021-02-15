@@ -1,12 +1,12 @@
 ---
-title: 'Kontakt'
+title: Kontakt
 hide_git_sync_repo_link: false
 process:
     markdown: true
     twig: true
 show_sidebar: true
 published: true
-visible: true 
+visible: true
 ---
 
 # Wie du mich kontaktieren kannst? 
