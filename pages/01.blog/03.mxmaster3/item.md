@@ -8,7 +8,7 @@ hide_from_post_list: false
 feed:
     limit: 10
 visible: false
-published: false
+published: true
 title: 'Testbericht über die Logitech MX Master 3'
 header_image: '1'
 taxonomy:
@@ -51,5 +51,3 @@ Hin und wieder bricht die Bluetooth Verbindung ab. So circa alle 4 Tage ist das 
 
 ### "Umschalten"  
 Das Umschalten von Rechner 1 auf Rechner zwei dauert unter einer Sekunde.  
-
-Nachfolgend noch ein paar Bilder von der Maus: 
